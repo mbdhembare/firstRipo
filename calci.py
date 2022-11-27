@@ -1,4 +1,4 @@
-simple calculator program in python
+#simple calculator program in python
 
 print("Enter the numbers")
 a = float(input("enter 1st number: "))
