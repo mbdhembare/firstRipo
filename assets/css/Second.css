@@ -1,0 +1,5 @@
+.header-background {
+    background-image: url('../img/headerImage.png');
+    background-size: cover;
+    background-position: center;
+}
